@@ -25,23 +25,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/herooiboo/shahid4u-watchlink">
+  <a href="https://github.com/herooiboo/shahed4u-Watchlink">
     <img src="https://i.ibb.co/84V9b94/short.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Shahid4u Watchlink</h3>
+<h3 align="center">Shahed4u Watchlink</h3>
 
   <p align="center">
-    get Shahid4u Direct Watchlink using movie/film link
+    get Shahed4u Direct Watchlink using movie/film link
     <br />
-    <a href="https://github.com/herooiboo/shahid4u-watchlink/Download/Download.zip"><strong>Download EXE File »</strong></a>
+    <a href="https://github.com/herooiboo/shahed4u-watchlink/Download/Download.zip"><strong>Download EXE File »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/herooiboo/shahid4u-watchlink">View Demo</a>
+    <a href="https://github.com/herooiboo/shahed4u-watchlink">View Demo</a>
     ·
-    <a href="https://github.com/herooiboo/shahid4u-watchlink/issues">Report Bug</a>
+    <a href="https://github.com/herooiboo/shahed4u-watchlink/issues">Report Bug</a>
     ·
-    <a href="https://github.com/herooiboo/shahid4u-watchlink/issues">Request Feature</a>
+    <a href="https://github.com/herooiboo/shahed4u-watchlink/issues">Request Feature</a>
   </p>
 </div>
 
