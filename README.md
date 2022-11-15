@@ -26,7 +26,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/herooiboo/shahed4u-Watchlink">
-
     <img src="https://i.ibb.co/84V9b94/short.jpg" alt="Logo" width="80" height="80">
   </a>
 
