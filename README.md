@@ -35,7 +35,7 @@
   <p align="center">
     get Shahed4u Direct Watchlink using movie/film link
     <br />
-    <a href="https://github.com/herooiboo/shahed4u-Watchlink/Download/Download.zip"><strong>Download EXE File »</strong></a>
+    <a href="https://github.com/herooiboo/shahed4u-Watchlink/raw/master/Download/Download.zip"><strong>Download Portable v1.0 »</strong></a>
     <br />
     <br />
     <a href="https://github.com/herooiboo/shahed4u-Watchlink">View Demo</a>
