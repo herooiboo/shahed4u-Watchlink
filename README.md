@@ -34,7 +34,7 @@
   <p align="center">
     get Shahid4u Direct Watchlink using movie/film link
     <br />
-    <a href="#"><strong>Download EXE File »</strong></a>
+    <a href="https://github.com/herooiboo/shahid4u-watchlink/Download/Download.zip"><strong>Download EXE File »</strong></a>
     <br />
     <br />
     <a href="https://github.com/herooiboo/shahid4u-watchlink">View Demo</a>
@@ -67,7 +67,7 @@
 
 <img src="image/screenshot.png" alt="Screenshot">
 
-The project is based on <a href="https://shahed4u.team/" target="_blank">shahed4u</a>, Simply Disable JAVASCRIPT to turn of any ads and when you want to watch just copy the Movie link and paste it inside the app and click generate it'll get the watch url for you easialy 
+The project is based on <a href="https://shahed4u.team/" target="_blank">shahed4u</a>, Simply Disable JAVASCRIPT to turn off any ads and when you want to watch just copy the Movie link and paste it inside the app and click generate it'll get the watch url for you easialy 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
