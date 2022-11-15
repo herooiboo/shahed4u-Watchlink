@@ -26,6 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/herooiboo/shahed4u-Watchlink">
+
     <img src="https://i.ibb.co/84V9b94/short.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -34,14 +35,14 @@
   <p align="center">
     get Shahed4u Direct Watchlink using movie/film link
     <br />
-    <a href="https://github.com/herooiboo/shahed4u-watchlink/Download/Download.zip"><strong>Download EXE File »</strong></a>
+    <a href="https://github.com/herooiboo/shahed4u-Watchlink/Download/Download.zip"><strong>Download EXE File »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/herooiboo/shahed4u-watchlink">View Demo</a>
+    <a href="https://github.com/herooiboo/shahed4u-Watchlink">View Demo</a>
     ·
-    <a href="https://github.com/herooiboo/shahed4u-watchlink/issues">Report Bug</a>
+    <a href="https://github.com/herooiboo/shahed4u-Watchlink/issues">Report Bug</a>
     ·
-    <a href="https://github.com/herooiboo/shahed4u-watchlink/issues">Request Feature</a>
+    <a href="https://github.com/herooiboo/shahed4u-Watchlink/issues">Request Feature</a>
   </p>
 </div>
 
