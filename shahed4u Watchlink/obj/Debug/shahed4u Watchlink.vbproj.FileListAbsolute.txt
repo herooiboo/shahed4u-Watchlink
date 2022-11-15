@@ -1,0 +1,13 @@
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\bin\Debug\shahed4u Watchlink.exe.config
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\bin\Debug\shahed4u Watchlink.exe
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\bin\Debug\shahed4u Watchlink.pdb
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\bin\Debug\shahed4u Watchlink.xml
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\bin\Debug\MaterialSkin.dll
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u Watchlink.vbprojResolveAssemblyReference.cache
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u_Watchlink.Form1.resources
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u_Watchlink.Resources.resources
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u Watchlink.vbproj.GenerateResource.Cache
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u Watchlink.vbproj.CoreCompileInputs.cache
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u Watchlink.exe
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u Watchlink.xml
+C:\Users\iboo2\source\repos\shahed4u Watchlink\shahed4u Watchlink\obj\Debug\shahed4u Watchlink.pdb
